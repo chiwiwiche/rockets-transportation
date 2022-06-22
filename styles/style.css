@@ -562,7 +562,6 @@ header{
 }
 
 .logo__header{
-    /* background: red; */
     position: absolute;
     top: 20px;
     
@@ -570,12 +569,20 @@ header{
 }
 
 .logo__header__image{
-    /* background: blue; */
-    /* position: absolute; */
     width: 280px;
     display: block;
     margin: 0 auto;
     
+}
+
+.return__wrappper{
+    width: 100%;
+    text-align: center;
+}
+.return__icon{
+    color:var(--main-light-red);
+    font-weight: 900;
+    display:inline-block;
 }
 
 /***************************************************************************************/
