@@ -584,7 +584,9 @@ header{
     font-weight: 900;
     display:inline-block;
 }
-
+.tipos{
+    color:white;
+}
 /***************************************************************************************/
 
 .joinus__form__wrapper{
